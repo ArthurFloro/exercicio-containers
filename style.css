@@ -1,0 +1,110 @@
+body{
+    background-image: url('fundo.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 70px;
+    border: 2px solid white;
+    padding: 20px;
+    width: 50%;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+h1{
+    color: white;
+    font-size: 30px;
+}
+
+label{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+label:hover{
+    color: black;
+}
+
+.btn{
+    background-color: green;
+    border: 5px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.container2{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 70px;
+    border: 2px solid white;
+    padding: 20px;
+    width: 50%;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+h2{
+    color: white;
+}
+
+option{
+    background-color: darkgray;
+    color: white;
+    border: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.container3{
+    text-align: center;
+    margin-top: 70px;
+    border: 2px solid white;
+    padding: 20px;
+    width: 50%;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+.envi{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border: 5px;
+    border-radius: 10px;
+}
+
+.limp{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border: 5px;
+    border-radius: 10px;
+}
+
+.container4{
+    text-align: center;
+    margin-top: 70px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 50%;
+    margin-left: 300px;
+}
+
+.container5{
+    text-align: center;
+    margin-top: 70px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 50%;
+    margin-left: 300px;
+}
